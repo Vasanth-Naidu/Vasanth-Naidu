@@ -25,25 +25,25 @@ Specialising in Intelligent Automation (IA) deployment & governance, SOX/CSA/OCC
 ## Architectural Portfolio Repositories:
 Below are reverse-engineered case studies documenting my 24-year operational and technical journey:
 
-1. [**Intelligent Automation Deployment, Governance & OCC Audit Readiness across Wholesale Payments Operations (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/01-automation-governance-occ)  
+1. [**Intelligent Automation Deployment, Governance & OCC Audit Readiness across Wholesale Payments Operations (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/01-Universal-SDLC-Deployment)  
    *$1.0M+ YoY cost elimination, IS control standards for 800+ RPA solutions, OCC audit readiness, and $325K risk remediation cost avoidance[cite: 1].*
 
-2. [**Hands-On SDLC Intervention & Timeline Compression (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/02-pm-ops-tech-bridge)  
+2. [**Hands-On SDLC Intervention & Timeline Compression (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)  
    *Compressing delivery timelines through end-to-end SDLC documentation (BRD/FSD, Solution Design, End User Guides, Version Control) and stepping into technical/SDLC roles to resolve blockers, approvals, resource gaps, and legal/compliance requirements.*
 
-3. [**Dual-Hatting Ops, Automation, Analytics & SOX Governance (Dell)**](https://github.com/Vasanth-Naidu/03-analytics-automation-ops-sox)  
+3. [**Dual-Hatting Ops, Automation, Analytics & SOX Governance (Dell)**](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX)  
    *Embedded operations management driving ground-up automation buildout (Sat-O-Meter, VQM, DBox, AutoDunning Engine, Q-Vision Wallboard) alongside SOX/CSA audit custody[cite: 1, 2].*
 
-4. [**Six Sigma Process Mapping & Defect Elimination (iGATE)**](https://github.com/Vasanth-Naidu/04-six-sigma-process-mapping)  
+4. [**Six Sigma Process Mapping & Defect Elimination (iGATE)**](https://github.com/Vasanth-Naidu/04-Six-Sigma-Process-Mapping)  
    *Quality control leadership, CEO business vertical dashboards, SIPOC mapping, and upskilling 100+ resources on Six Sigma[cite: 1].*
 
-5. [**Software Product SDLC & Multi-Department Deployment (GE Capital)**](https://github.com/Vasanth-Naidu/05-software-sdlc-deployment)  
+5. [**Software Product SDLC & Multi-Department Deployment (GE Capital)**](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)  
    *End-to-end SDLC execution, eLab innovation leadership, audit automation (Cendant Wizard), and pan-Enterprise communication deployment (Anukara) yielding $0.5M savings[cite: 2].*
 
-6. [**Enterprise Data Analytics & Executive Dashboards (Cross-Company)**](https://github.com/Vasanth-Naidu/06-enterprise-data-analytics)  
+6. [**Enterprise Data Analytics & Executive Dashboards (Cross-Company)**](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics)  
    *Tableau, SQL, Alteryx, and custom operational health metrics reporting tools (iTrack) across global financial institutions[cite: 1].*
 
-7. [**Technical Mentorship & Advanced Analytics Curriculum (Dell, JPMorgan Chase & Coaching)**](https://github.com/Vasanth-Naidu/07-analytics-6sigma-mentorship-curriculum)  
+7. [**Technical Mentorship & Advanced Analytics Curriculum (Dell, JPMorgan Chase & Coaching)**](https://github.com/Vasanth-Naidu/07-Analytics-6Sigma-Mentorship-Curriculum)  
    *Basic Six Sigma, MS Excel, MS Access, and VBA training programs for operational enablement[cite: 1].*
 
 ---
