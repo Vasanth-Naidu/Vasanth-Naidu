@@ -5,13 +5,13 @@
 ---
 
 ## Executive Overview:
-Certified Lean Six Sigma Green Belt and UiPath RPA Developer with **24 years of enterprise experience** across Fortune 500 financial and technology firms, including **JP Morgan Chase, Dell, iGATE, and GE Capital**. 
+Certified Lean Six Sigma Green Belt and UiPath RPA Developer with **24 years of enterprise experience** across Fortune 500 financial and technology firms, including **JPMorgan Chase, Dell, iGATE, and GE Capital**. 
 
 Specialising in Intelligent Automation (IA) deployment & governance, SOX/CSA/OCC audit preparedness, operations transformation, and bridging complex operational workflows with technical development teams[cite: 1].
 
 ---
 
-## Core Competencies & Expertise
+## Core Competencies & Expertise:
 
 * **Intelligent Automation & RPA Governance:** End-to-end strategy, delivery, and IS control standards for 800+ RPA/ML solutions[cite: 1].
 * **Ops-Tech Translation & Project Leadership:** Bridging operational logic with engineering capabilities to compress delivery timelines and eliminate communication friction[cite: 1].
@@ -22,16 +22,14 @@ Specialising in Intelligent Automation (IA) deployment & governance, SOX/CSA/OCC
 
 ---
 
-## Architectural Portfolio Repositories
-
-Below are reverse-engineered case studies documenting my 24-year operational and technical journey:
 ## Architectural Portfolio Repositories:
+Below are reverse-engineered case studies documenting my 24-year operational and technical journey:
 
-1. [**Intelligent Automation Deployment, Governance & OCC Audit Readiness across Wholesale Payments Operations (JP Morgan Chase)**](https://github.com/Vasanth-Naidu/01-automation-governance-occ)  
+1. [**Intelligent Automation Deployment, Governance & OCC Audit Readiness across Wholesale Payments Operations (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/01-automation-governance-occ)  
    *$1.0M+ YoY cost elimination, IS control standards for 800+ RPA solutions, OCC audit readiness, and $325K risk remediation cost avoidance[cite: 1].*
 
 2. [**Hands-On SDLC Intervention & Timeline Compression (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/02-pm-ops-tech-bridge)  
-   *Compressing delivery timelines by stepping directly into development/SDLC roles to cover resource gaps, issues, approvals, resource sourcing, legal and compliance adherence.*
+   *Compressing delivery timelines through end-to-end SDLC documentation (BRD/FSD, Solution Design, End User Guides, Version Control) and stepping into technical/SDLC roles to resolve blockers, approvals, resource gaps, and legal/compliance requirements.*
 
 3. [**Dual-Hatting Ops, Automation, Analytics & SOX Governance (Dell)**](https://github.com/Vasanth-Naidu/03-analytics-automation-ops-sox)  
    *Embedded operations management driving ground-up automation buildout (Sat-O-Meter, VQM, DBox, AutoDunning Engine, Q-Vision Wallboard) alongside SOX/CSA audit custody[cite: 1, 2].*
@@ -45,13 +43,13 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 6. [**Enterprise Data Analytics & Executive Dashboards (Cross-Company)**](https://github.com/Vasanth-Naidu/06-enterprise-data-analytics)  
    *Tableau, SQL, Alteryx, and custom operational health metrics reporting tools (iTrack) across global financial institutions[cite: 1].*
 
-7. [**Technical Mentorship & Advanced Analytics Curriculum (Dell, JPMC & Coaching)**](https://github.com/Vasanth-Naidu/07-analytics-6sigma-mentorship-curriculum)  
+7. [**Technical Mentorship & Advanced Analytics Curriculum (Dell, JPMorgan Chase & Coaching)**](https://github.com/Vasanth-Naidu/07-analytics-6sigma-mentorship-curriculum)  
    *Basic Six Sigma, MS Excel, MS Access, and VBA training programs for operational enablement[cite: 1].*
 
 ---
 
 ## Certifications & Technical Skills:
-* **Certifications:** Lean Six Sigma Green Belt, UiPath Diploma RPA Developer Advanced, Google Project Management, JPMC Digital Accelerator Green Belt, UC Davis SQL for Analytics[cite: 1]
+* **Certifications:** Lean Six Sigma Green Belt, UiPath Diploma RPA Developer Advanced, Google Project Management, JPMorgan Chase Digital Accelerator Green Belt, UC Davis SQL for Analytics[cite: 1]
 * **Tools:** UiPath, Automation Anywhere, Alteryx, Tableau, Xceptor, MS SQL, MySQL, Oracle, Visual Basic/ VBA, MS SharePoint[cite: 1]
 
 ---
