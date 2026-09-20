@@ -25,7 +25,7 @@ Specialising in Intelligent Automation (IA) deployment & governance, SOX/CSA/OCC
 ## Architectural Portfolio Repositories:
 Below are reverse-engineered case studies documenting my 24-year operational and technical journey:
 
-1. 🤖 [**Intelligent Automation Deployment, Governance & OCC Audit Readiness (JPMorgan Chase)**](./01-Universal-SDLC-Deployment/README.md)  
+1. 🤖 [**Intelligent Automation Deployment, Governance & OCC Audit Readiness (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/01-Universal-SDLC-Deployment)  
    *$1.0M+ YoY cost elimination, 100% IS control compliance across 800+ RPA solutions, OCC audit readiness, cross-regional client rescue, and Project Elsa crisis response.*  
    `UiPath` • `Automation Anywhere` • `Firmwide IS Governance` • `OCC Audit Readiness` • `TradeExpress ML` • `Project Elsa`
 
