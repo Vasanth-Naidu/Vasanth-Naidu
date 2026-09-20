@@ -51,7 +51,7 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 ---
 
 ## Certifications & Technical Skills:
-* **Certifications:** Lean Six Sigma Green Belt, UiPath Diploma RPA Developer Advanced, Google Project Management, JPMorgan Chase Digital Accelerator Green Belt, UC Davis SQL for Analytics[cite: 1]
+* **Certifications:** Google Project Management, UiPath Diploma RPA Developer Advanced, UC Davis SQL for Analytics, Lean Six Sigma Green Belt, and JPMorgan Chase Digital Accelerator Green Belt [cite: 1]
 * **Tools:** UiPath, Automation Anywhere, Alteryx, Tableau, Xceptor, MS SQL, MySQL, Oracle, Visual Basic/ VBA, MS SharePoint[cite: 1]
 
 ---
