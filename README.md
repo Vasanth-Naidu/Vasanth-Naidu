@@ -34,7 +34,7 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 3. [**Dual-Hatting Ops, Automation, Analytics & SOX Governance (Dell)**](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX)  
    *Embedded operations management driving ground-up automation buildout (Sat-O-Meter, VQM, DBox, AutoDunning Engine, Q-Vision Wallboard) alongside SOX/CSA audit custody[cite: 1, 2].*
 
-4. [**Quality Architecture, Process Blueprinting & Practical Six Sigma Execution**](https://github.com/Vasanth-Naidu/04-Quality-Architecture-Process-Blueprinting)**  
+4. [**Quality Architecture, Process Blueprinting & Practical Six Sigma Execution (iGate)**](https://github.com/Vasanth-Naidu/04-Six-Sigma-Process-Mapping)  
    *Architected pre-sales process blueprints, error-opportunity matrices, and QA audit frameworks for client RFP's at iGate Global Solutions. Governed BPO quality through GEMBA Walks, practical DMAIC root-cause analysis, Poka-Yoke error-proofing, and targeted frontline training.*
   `Pre-Sales Blueprinting` • `Practical Six Sigma (DMAIC)` • `Gemba Walks` • `Poka-Yoke` • `QA Scorecards` • `Pareto & Fishbone`  
 
