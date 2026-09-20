@@ -29,7 +29,7 @@ Below are reverse-engineered case studies documenting my 24-year operational and
    *$1.0M+ YoY cost elimination, IS control standards across 800+ RPA solutions, OCC audit readiness, and crisis response war room execution.*  
    `UiPath` • `Automation Anywhere` • `Firmwide IS Governance` • `OCC Audit Readiness` • `TradeExpress ML`
 
-2. 🛡️ [**Parachute Project Management, End-to-End SDLC Enablement & Ops-Tech Bridge Leadership (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)  
+2. 🪂 [**Parachute Project Management, End-to-End SDLC Enablement & Ops-Tech Bridge Leadership (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)  
    *Compressing delivery timelines by 30%–40% through hands-on BRD/FSD documentation, PNS legacy code forensics ($330K cost avoidance), and 2LOD CCOR Legal Entity risk coverage.*  
    `Parachute PM` • `SDLC Enablement` • `Legacy VBA Forensics` • `2LOD CCOR Risk` • `BRD/FSD Architecture`
 
@@ -61,3 +61,5 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 
 ---
 📍 **Contact & Connections:** [LinkedIn Profile](https://www.linkedin.com/in/vasanth-naidu) | Email: vasanth.naidu@gmail.com
+
+---
