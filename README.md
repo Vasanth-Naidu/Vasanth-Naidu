@@ -35,7 +35,7 @@ Below are reverse-engineered case studies documenting my 24-year operational and
    *Embedded operations management driving ground-up automation buildout (Sat-O-Meter, VQM, DBox, AutoDunning Engine, Q-Vision Wallboard) alongside SOX/CSA audit custody[cite: 1, 2].*
 
 4. [**Quality Architecture, Process Blueprinting & Practical Six Sigma Execution (iGate)**](https://github.com/Vasanth-Naidu/04-Six-Sigma-Process-Mapping)  
-   *Architected pre-sales process blueprints, error-opportunity matrices, and QA audit frameworks for client RFP's at iGate Global Solutions. Governed BPO quality through GEMBA Walks, practical DMAIC root-cause analysis, Poka-Yoke error-proofing, and targeted frontline training.*
+   *Architected pre-sales process blueprints, error-opportunity matrices, and QA audit frameworks for client RFP's at iGate Global Solutions. Governed BPO quality through GEMBA Walks, practical DMAIC root-cause analysis, Poka-Yoke error-proofing, and targeted frontline training.* <br>
   `Pre-Sales Blueprinting` • `Practical Six Sigma (DMAIC)` • `Gemba Walks` • `Poka-Yoke` • `QA Scorecards` • `Pareto & Fishbone`  
 
 5. [**Software Product SDLC & Multi-Department Deployment (GE Capital)**](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment)  
@@ -44,9 +44,10 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 6. [**Enterprise Data Analytics & Executive Dashboards (Cross-Company)**](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics)  
    *Tableau, SQL, Alteryx, and custom operational health metrics reporting tools (iTrack) across global financial institutions[cite: 1].*
 
-7. [**Technical Mentorship & Advanced Analytics Curriculum (Dell, JPMorgan Chase & Coaching)**](https://github.com/Vasanth-Naidu/07-Analytics-6Sigma-Mentorship-Curriculum)  
-   *Basic Six Sigma, MS Excel, MS Access, and VBA training programs for operational enablement[cite: 1].*
-
+7. [**Technical Mentorship, Six Sigma Capability Building & Analytics Curriculum**]([.](https://github.com/Vasanth-Naidu/07-Technical-Mentorship-Capability-Building/README.md)
+   *Architected cross-company upskilling frameworks spanning SDLC controls, citizen automation (Xceptor, Alteryx, Tableau), Lean Six Sigma (DMAIC), curated MS-Excel analytics, and 1-on-1 VB/SQL mentorship across JPMC, Dell, iGate, and GE Capital. Upskilled 100+ resources to build a self-serve automation ecosystem.* <br>
+  `Technical Mentorship` • `Lean Six Sigma (DMAIC)` • `Xceptor & Alteryx` • `Tableau Analytics` • `Curated MS-Excel` • `100+ Upskilled`
+  
 ---
 
 ## Certifications & Technical Skills:
