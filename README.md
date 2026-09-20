@@ -7,7 +7,7 @@
 ## Executive Overview:
 Certified Lean Six Sigma Green Belt and UiPath RPA Developer with **24 years of enterprise experience** across Fortune 500 financial and technology firms, including **JPMorgan Chase, Dell, iGATE, and GE Capital**. 
 
-Specialising in Intelligent Automation (IA) deployment & governance, SOX/ CSA/ OCC audit preparedness, operations transformation, and bridging complex operational workflows with technical development teams.
+Specialising in Intelligent Automation (IA) deployment & governance, SOX/CSA/OCC audit preparedness, operations transformation, and bridging complex operational workflows with technical development teams.
 
 ---
 
@@ -26,10 +26,10 @@ Specialising in Intelligent Automation (IA) deployment & governance, SOX/ CSA/ O
 Below are reverse-engineered case studies documenting my 24-year operational and technical journey:
 
 1. 🤖 [**Intelligent Automation Deployment, Governance & OCC Audit Readiness (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/01-Universal-SDLC-Deployment)  
-   *$1.0M+ YoY cost elimination, IS control standards for 800+ RPA solutions, OCC audit readiness, and $325K risk remediation cost avoidance.*  
+   *$1.0M+ YoY cost elimination, IS control standards across 800+ RPA solutions, OCC audit readiness, and crisis response war room execution.*  
    `UiPath` • `Automation Anywhere` • `Firmwide IS Governance` • `OCC Audit Readiness` • `TradeExpress ML`
 
-2. 🌁 [**Parachute Project Management, End-to-End SDLC Enablement & Ops-Tech Bridge Leadership (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)  
+2. 🛡️ [**Parachute Project Management, End-to-End SDLC Enablement & Ops-Tech Bridge Leadership (JPMorgan Chase)**](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge)  
    *Compressing delivery timelines by 30%–40% through hands-on BRD/FSD documentation, PNS legacy code forensics ($330K cost avoidance), and 2LOD CCOR Legal Entity risk coverage.*  
    `Parachute PM` • `SDLC Enablement` • `Legacy VBA Forensics` • `2LOD CCOR Risk` • `BRD/FSD Architecture`
 
@@ -56,8 +56,8 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 ---
 
 ## Certifications & Technical Skills:
-* **Certifications:** Google Project Management, UiPath Diploma RPA Developer Advanced, UC Davis SQL for Data Analytics, Lean Six Sigma Green Belt, and JPMorgan Chase Digital Accelerator Green Belt
-* **Tools:** UiPath, Automation Anywhere, Alteryx, Tableau, Xceptor, MS SQL, MySQL, Oracle, Visual Basic/ VBA, MS SharePoint
+* **Certifications:** Google Project Management, UiPath Diploma RPA Developer Advanced, UC Davis SQL for Analytics, Lean Six Sigma Green Belt, and JPMorgan Chase Digital Accelerator Green Belt
+* **Tools:** UiPath, Automation Anywhere, Alteryx, Tableau, Xceptor, MS SQL, MySQL, Oracle, Visual Basic / VBA, MS SharePoint
 
 ---
 📍 **Contact & Connections:** [LinkedIn Profile](https://www.linkedin.com/in/vasanth-naidu) | Email: vasanth.naidu@gmail.com
