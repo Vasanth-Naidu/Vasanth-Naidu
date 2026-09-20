@@ -44,8 +44,8 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 6. [**Enterprise Data Analytics & Executive Dashboards (Cross-Company)**](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics)  
    *Tableau, SQL, Alteryx, and custom operational health metrics reporting tools (iTrack) across global financial institutions[cite: 1].*
 
-7. [**Technical Mentorship, Six Sigma Capability Building & Analytics Curriculum**](https://github.com/Vasanth-Naidu/07-Analytics-6Sigma-Mentorship-Curriculum)
-   *Architected cross-company upskilling frameworks spanning SDLC controls, citizen automation (Xceptor, Alteryx, Tableau), Lean Six Sigma (DMAIC), curated MS-Excel analytics, and 1-on-1 VB/SQL mentorship across JPMC, Dell, iGate, and GE Capital. Upskilled 100+ resources to build a self-serve automation ecosystem.* <br>
+7. [**Technical Mentorship, Six Sigma Capability Building & Analytics Curriculum**](https://github.com/Vasanth-Naidu/07-Analytics-6Sigma-Mentorship-Curriculum) <br>
+   *Architected cross-company upskilling frameworks spanning SDLC controls, citizen automation (Xceptor, Alteryx, Tableau), Lean Six Sigma (DMAIC), curated MS-Excel analytics, and 1-on-1 VB/SQL mentorship across JPMC, Dell, iGate, and GE Capital. Upskilled 100+ resources to build a self-serve automation ecosystem.* v
   `Technical Mentorship` • `Lean Six Sigma (DMAIC)` • `Xceptor & Alteryx` • `Tableau Analytics` • `Curated MS-Excel` • `100+ Upskilled`
   
 ---
