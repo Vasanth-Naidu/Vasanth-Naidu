@@ -60,6 +60,7 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 * **Tools:** UiPath, Automation Anywhere, Alteryx, Tableau, Xceptor, MS SQL, MySQL, Oracle, Visual Basic/ VBA, MS SharePoint
 
 ---
+
 📍 **Contact & Connections:** [LinkedIn Profile](https://www.linkedin.com/in/vasanth-naidu) | Email: vasanth.naidu@gmail.com
 
 ---
@@ -70,3 +71,14 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 | [![Project 01](./Assets/01-Trade-Payment-Automation-ML.png)](https://github.com/Vasanth-Naidu/01-Universal-SDLC-Deployment/blob/main/01-Trade-Payment-Automation-ML/Case-Study.md) | [![Project 02](./Assets/02-PNS-Legacy-UDT-Rescue.png)](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge/blob/main/02-PNS-Legacy-UDT-Rescue/Case-Study.md) | [![Project 03](./Assets/03-Cross-Regional-Client-Automation-Rescue.png)](https://github.com/Vasanth-Naidu/01-Universal-SDLC-Deployment/blob/main/03-Cross-Regional-Client-Automation-Rescue/Case-Study.md) |
 | [![Project 04](./Assets/04-Crisis-Response-Risk-Automation.png)](https://github.com/Vasanth-Naidu/01-Universal-SDLC-Deployment/blob/main/04-Crisis-Response-Risk-Automation/Case-Study.md) | [![Project 14](./Assets/14-AutoDunning-Engine.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/14-AutoDunning-Engine/Case-Study.md) | [![Project 16](./Assets/16-Cendant-Wizard-Contract-Audit.png)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/16-Cendant-Wizard-Contract-Audit/Case-Study.md) |
 | [![Project 18](./Assets/18-GELS-Backorder-Search-Automation.png)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/18-GELS-Backorder-Search-Automation/Case-Study.md) | [![Project 19](./Assets/19-MR-to-PO-Mainframe-Automation.png)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/19-MR-to-PO-Mainframe-Automation/Case-Study.md) | |
+
+---
+
+![Category B: Enterprise Data Analytics & Risk Governance](./Assets/Category_B_Enterprise_Data_Analytics_Governance.png)
+|  |  |  |
+| :---: | :---: | :---: |
+| [![Project 05](./Assets/05-CCOR-Legal-Entity-Risk-Coverage.png)](https://github.com/Vasanth-Naidu/02-PM-OPS-Tech-Bridge/blob/main/05-CCOR-Legal-Entity-Risk-Coverage/Case-Study.md) | [![Project 06](./Assets/06-CCOR-2LOD-Intelligent-Automation-Ecosystem.png)](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics/blob/main/06-CCOR-2LOD-Intelligent-Automation-Ecosystem/Case-Study.md) | [![Project 07](./Assets/07-Enterprise-Bot-Governance-Analytics.png)](https://github.com/Vasanth-Naidu/01-Universal-SDLC-Deployment/blob/main/07-Enterprise-Bot-Governance-Analytics/Case-Study.md) |
+| [![Project 08](./Assets/08-iTrack-Operations-Health-Metrics.png)](https://github.com/Vasanth-Naidu/06-Enterprise-Data-Analytics/blob/main/08-iTrack-Operations-Health-Metrics/Case-Study.md) | [![Project 09](./Assets/09-Sat-O-Meter-Predictive-CSat-Engine.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/09-Sat-O-Meter-Predictive-CSat-Engine/Case-Study.md) | [![Project 11](./Assets/11-DBox-Order-Processing-QA-Ecosystem.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/11-DBox-Order-Processing-QA-Ecosystem/Case-Study.md) |
+| [![Project 13](./Assets/13-MSRF-Stack-Ranking-Framework.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/13-MSRF-Stack-Ranking-Framework/Case-Study.md) | [![Project 17](./Assets/17-Solution-Wizard-Automated-Reporting.png)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/17-Solution-Wizard-Automated-Reporting/Case-Study.md) | [![Project 21](./Assets/21-SQL-Genie-Visual-Query-Builder.png)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/21-SQL-Genie-Visual-Query-Builder/Case-Study.md) |
+
+---
