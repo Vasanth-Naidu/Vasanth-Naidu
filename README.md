@@ -83,10 +83,10 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 
 ---
 
-![Category C: Workforce & Operational Floor Platforms](./Assets/Category_C_Workforce_ Operational_Floor_Platforms.png)
-|  |  |  |
-| :---: | :---: | :---: |
-| [![Project 10](./Assets/10-Visual-Queue-Manager-VQM.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/10-Visual-Queue-Manager-VQM/Case-Study.md) | [![Project 12](./Assets/12-ABO-CC-CSat-Scrubbing-Rapid-Recovery-Engine.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/12-ABO-CC-CSat-Scrubbing-Rapid-Recovery-Engine/Case-Study.md) | [![Project 15](./Assets/15-Q-Vision-Wallboard.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/15-Q-Vision-Wallboard/Case-Study.md) |
-| [![Project 20](./Assets/20-Anukara-Enterprise-Communication-Platform.png)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/20-Anukara-Enterprise-Communication-Platform/Case-Study.md) |  |  |
+![Category C: Workforce & Operational Floor Platforms](./Assets/Category_C_Workforce_Operational_Floor_Platforms.png)
+|  |  |
+| :---: | :---: |
+| [![Project 10](./Assets/10-Visual-Queue-Manager-VQM.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/10-Visual-Queue-Manager-VQM/Case-Study.md) | [![Project 12](./Assets/12-ABO-CC-CSat-Scrubbing-Rapid-Recovery-Engine.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/12-ABO-CC-CSat-Scrubbing-Rapid-Recovery-Engine/Case-Study.md) |
+| [![Project 15](./Assets/15-Q-Vision-Wallboard.png)](https://github.com/Vasanth-Naidu/03-Analytics-Automation-OPS-SOX/blob/main/15-Q-Vision-Wallboard/Case-Study.md) | [![Project 20](./Assets/20-Anukara-Enterprise-Communication-Platform.png)](https://github.com/Vasanth-Naidu/05-Software-SDLC-Deployment/blob/main/20-Anukara-Enterprise-Communication-Platform/Case-Study.md) |
 
 ---
