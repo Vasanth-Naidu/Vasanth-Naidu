@@ -61,7 +61,7 @@ Below are reverse-engineered case studies documenting my 24-year operational and
 
 ---
 
-📍 **Contact & Connections:** [LinkedIn Profile](https://www.linkedin.com/in/vasanth-naidu) | Email: vasanth.naidu@gmail.com
+📍 **Contact & Connections:** [LinkedIn Profile](https://www.linkedin.com/in/vasanth-naidu) | Email: [vasanth.naidu@gmail.com](mailto:vasanth.naidu@gmail.com)
 
 ---
 ## ![Featured Enterprise Solutions Showcase](./Assets/Featured%20Enterprise%20Solutions%20Showcase.png)
